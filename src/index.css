@@ -1,0 +1,23 @@
+.active{
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+.mvh-70{
+    min-height: 80vh;
+}
+.title{
+    font-size: 60px;
+  background: -webkit-linear-gradient(#f6ef28, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.dark{
+    background-color:#212529 !important;
+    color: #f8f9fa !important;
+}
+.light{
+    background-color: #f8f9fa  !important;
+    color: #212529 !important;
+}

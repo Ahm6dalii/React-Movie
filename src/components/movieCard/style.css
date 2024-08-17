@@ -1,0 +1,33 @@
+.lin{
+  display: -webkit-box;
+  line-clamp: 1;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;  
+  overflow: hidden;
+}
+.fixed-h{
+  height: 300px;
+  object-fit: cover;
+  /* width: 100%; */
+}
+
+.fs-m{
+  font-size: 15px !important;
+}
+.tp-bt{
+  top: 10px;
+  right: 2px;
+}
+.avg{
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-weight: bolder;
+}

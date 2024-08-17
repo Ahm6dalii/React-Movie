@@ -1,0 +1,8 @@
+.active{
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+.mvh-70{
+    min-height: 80vh;
+}
